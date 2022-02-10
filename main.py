@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 29 17:15:09 2022
 
-@author: Ahmad Aslan, Ali Akbey, Kamil Hammoud
+@author: Ahmad Aslan
 
 """
 
